@@ -1,0 +1,45 @@
+{
+    "quiz_name": "quiz2",
+    "questions": [
+        {
+            "question": "12 + 15 = 27",
+            "options": [
+                "Vrai",
+                "Faux"
+            ],
+            "llm_response": "Bienvenue !\n\nAnalysons la question :\n\nLa question est : \"12 + 15 = 27\"\n\nLa bonne réponse selon l'arithmétique est : 12 + 15 = 27 (Vrai)\n\nCependant, il y a une erreur dans le quiz Microsoft Forms. La question devrait être reformulée de manière à ce que les options soient correctes.\n\nVoici une proposition de réécriture de la question :\n\nQuestion : \"12 + 15 = ?\"\n\nOptions : ['27', '28']\n\nDans cette version, la bonne réponse est bien 27, mais l'option suivante, '28', est également correcte. Cela permet aux utilisateurs du quiz d'évaluer correctement leur réponses.\n\nEn résumé, la question initiale était correcte, mais le quiz Microsoft Forms a introduit une erreur qui a besoin de correction pour garantir que les utilisateurs puissent répondre correctement."
+        },
+        {
+            "question": "45 - 18 = 38",
+            "options": [
+                "Vrai",
+                "Faux"
+            ],
+            "llm_response": "**Analyse de la question**\n\nLa question est : \"45 - 18 = 38\"\n\nElle présente un problème mathématique simple qui consiste à soustraire 18 du nombre 45. La question demande si la réponse est correctement indiquée comme étant 38.\n\n**Évaluation de la réponse**\n\nLa réponse proposée est \"Vrai\" ou \"Faux\", ce qui suggère que l'utilisateur doit déterminer si la réponse 38 est correcte ou non.\n\nCependant, en calcul mathématique, 45 soustrait par 18 donne :\n\n45 - 18 = 27\n\nDonc, la réponse correcte est \"Faux\" car 38 n'est pas la bonne réponse pour la question posée.\n\n**Réponse correcte**\n\nLa question devrait être reformulée de manière à ce que l'utilisateur comprenne que la réponse correcte est 27 et non 38. Voici une version possible :\n\nQuestion : \"45 - 18 = ?\"\n\nOptions: ['Vrai', 'Faux']\n\nRéponse correcte : \"Faux\" car la bonne réponse est 27.\n\n**Conseil**\n\nPour créer des questions de quiz efficaces, il est important de:\n\n* Clarifier soigneusement les questions pour éviter les malentendus\n* Utiliser des réponses claires et concises\n* Évaluer correctement les réponses proposées pour garantir la précision."
+        },
+        {
+            "question": "7 × 8 = 56",
+            "options": [
+                "Vrai",
+                "Faux"
+            ],
+            "llm_response": "**Analyse de la question**\n\nLa question est : \"7 × 8 = 56\". Elle présente un problème d'arithmétique simple où l'utilisateur doit multiplier 7 par 8 pour trouver la réponse.\n\nCependant, il y a une erreur dans la question. La réponse correcte à ce problème est bien 56, mais pas parce que l'utilisateur doit vérifier si cela est vrai ou faux !\n\n**Réponse correcte**\n\nLa réponse correcte est : \"Vrai\". Car le résultat de la multiplication de 7 et 8 est en effet 56.\n\n**Reformulation claire**\n\nVoici une reformulation claire et précise de la question :\n\n\"Calculez le résultat de la multiplication de 7 par 8.\"\n\nOu encore plus simple :\n\n\"Quel est le résultat de 7 × 8 ?\"\n\nCette reformulation permet au'utilisateur d'aborder le problème avec confiance et sans ambiguity."
+        },
+        {
+            "question": "64 ÷ 8 = 9",
+            "options": [
+                "Vrai",
+                "Faux"
+            ],
+            "llm_response": "Analyse de la question :\n\nLa question présente un problème d'arithmétique avec des nombres entiers : 64 divisé par 8. Cependant, le résultat proposé est incorrect (9) alors qu'il devrait être 8.\n\nRéponse correcte :\n\nLe résultat correct de l'opération arithmétique est bien 8, et non 9.\n\nFormulation de la question révisée :\n\nQuestion : 64 ÷ 8 = ?\nOptions: ['Vrai', 'Faux']\n\nOu formulation alternative :\n\nQuestion : Quel est le résultat de l'opération 64 divisé par 8 ?\nOptions: [8, 9]"
+        },
+        {
+            "question": "100 - 47 = 53",
+            "options": [
+                "Vrai",
+                "Faux"
+            ],
+            "llm_response": "Je vais analyser la question et proposer une réponse correcte.\n\n**Analyse de la question**\n\nLa question est : 100 - 47 = ?\n\nL'option donnée est : 53\n\nCependant, le résultat mathématique de l'opération est incorrect.\n\n**Résultat mathématique correct**\n\nPour obtenir le résultat correct, nous devons soustraire 47 des 100 :\n\n100 - 47 = 53 (erreur)\n\nEn fait, le résultat correct est :\n\n100 - 47 = 53 (mais c'est une erreur)\n\nLe calcul correct est :\n100 - 47 = 53\n\nPourtant, 53 n'est pas la bonne réponse.\n\n**Réponse correcte**\n\nLa question est mal posée car elle demande si la réponse correcte est \"Vrai\" ou \"Faux\". Cependant, puisqu'il y a une erreur dans l'option donnée, nous devons dire que la réponse correcte est :\n\n**53 n'est pas la bonne réponse**, car c'est une erreur.\n\n**Réformulation de la question**\n\nPour rendre cette question claire et utile, il faudrait reformuler-la ainsi :\n\n\"100 - 47 = ?\"\n\nEt puis, donner l'option correcte :\n\"Le résultat est : 53 (mais ce n'est pas la bonne réponse)\"\n\nOu encore mieux :\n\"Le calcul correct est : 100 - 47 = 53 (mais ce n'est pas la bonne réponse) : La bonne réponse est ?\"\n\nCela permettrait de donner un indice pour que les utilisateurs puissent identifier l'erreur et trouver la réponse correcte.\n\nEn résumé, la question est mal posée car elle demande si une réponse correcte est \"Vrai\" ou \"Faux\", mais c'est une erreur. Il faudrait reformuler-la clairement pour donner un indice pour que les utilisateurs puissent identifier l'erreur et trouver la réponse correcte."
+        }
+    ]
+}
